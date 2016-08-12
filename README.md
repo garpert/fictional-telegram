@@ -2,6 +2,29 @@
 FirstProject
 Requirements
 ------------
+See ``INSTALL`` file for installation instructions.
+
+See ``HACKING`` file for compilation requirements and instructions.
+
+
+Availability
+------------
+
+The cutting-edge version of this project is always available from the Git
+repository at https://github.com/Igalia/libreplan.
+
+Released versions are available at
+http://sourceforge.net/projects/libreplan/files/.
+
+
+Webpage
+-------
+
+You can find more information about *LibrePlan* at
+http://www.libreplan.com/.
+
+
+
 
 * *JRE 6* - Java Runtime Environment
 
