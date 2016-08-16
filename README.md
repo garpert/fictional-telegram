@@ -7,7 +7,7 @@ See ``INSTALL`` file for installation instructions.
 See ``HACKING`` file for compilation requirements and instructions.
 
 
-Availability
+Libreplan
 ------------
 
 The cutting-edge version of this project is always available from the Git
